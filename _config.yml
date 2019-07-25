@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ed-h1226's embedded study blog"
+title                    : "Ed-h1226's embedded study blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ed-h1226"
+name                     : "Ed-h1226"
 description              : "This blog makes for study."
 url                      : "https://ed-h1226.github.io"
 baseurl                  : ""
