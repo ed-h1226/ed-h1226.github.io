@@ -1,7 +1,7 @@
 ---
 title: "gxLib에 대해"
 date: 2019-07-25 12:00:00
-categories: gxLib
+categories: gxLib Study
 ---
 
 gxLib
