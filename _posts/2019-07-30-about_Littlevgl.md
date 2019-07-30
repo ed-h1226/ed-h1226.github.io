@@ -15,23 +15,23 @@ categories: gxLib Study
 
 
 Github
-``` 
+
 <https://github.com/littlevgl>
-```
+
 
 샘플 배포
-```
+
 <https://littlevgl.com/live-demo>
-```
+
 
 메뉴얼 배포
-```
+
 <https://docs.littlevgl.com/en/html/index.html>
-```
+
 
 공식홈페이지
-```
+
 <https://littlevgl.com/>
-```
+
 
 -end
