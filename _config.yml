@@ -110,7 +110,7 @@ analytics                :
 author             :
   name             : "Ed-h"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This blog makes for gxLib study."
+  bio              : "This blog makes for embedded Study."
   location         : "Somewhere"
   email            : "hyun.heechang@starnex.co.kr"
   links:
