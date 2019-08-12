@@ -1,5 +1,15 @@
 
+---
+title: "gxLib 수평선 출력"
+date: 2019-08-12 00:00:00
+categories: gxLib Study
+---
+
+gxlib을 활용한 수평선 출력,
+
+
 {% highlight cpp linenos %}
+
 #include    <stdio.h>
 #include    <gx.h>
 #include    <gxbdf.h>
@@ -34,4 +44,5 @@ int   main( void)
     }
     return   0;
 }
+
 {% endhighlight %}
