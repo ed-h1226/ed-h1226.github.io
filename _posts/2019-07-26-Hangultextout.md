@@ -5,7 +5,7 @@ categories: gxLib Study
 ---
 
 
-```cpp
+{% highlight cpp linenos %}
 
 #include    <stdio.h>
 #include    <gx.h>
@@ -37,4 +37,5 @@ int   main( void)
     }
     return   0;
 }
-```
+
+{% endhighlight %}
