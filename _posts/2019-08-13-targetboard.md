@@ -1,5 +1,5 @@
 ---
-title: "gxLib makefile"
+title: "gxLib-arm-linux-makefile"
 date: 2019-08-13 00:00:00
 categories: gxLib Study
 ---
